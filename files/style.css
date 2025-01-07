@@ -11,7 +11,5 @@ pre {
 }
 
 th, td {
-  border: 1px solid;
-  border-collapse: collapse;
-
+  border-bottom: 1px solid;
 }
